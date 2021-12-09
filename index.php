@@ -26,7 +26,7 @@
     ?>
     <button type="button" class="btn btn-dark">CLICK ME!</button>
     <button type="button" class="btn btn-primary">CLICK ME!</button>
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" class="btn btn-success">DON'T CLICK!</button>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" class="btn btn-success">DON'T CLICK!</a>
     <a href="https://www.heroku.com" target="_blank" class="btn btn-danger">Heroku.com</a>
     <?php
         require 'includes/footer.php' 
